@@ -1,10 +1,10 @@
-.buttons {
+/* .buttons {
     display: flex;
     flex-direction: row;
     gap: 12px;
-  }
+  } */
 
-  /* .optionsList{
+  .optionsList{
     display: flex;
     gap: 10px;
 }
@@ -29,4 +29,4 @@
 .optionsBtn:focus,
 .optionsBtn:focus-visible {
     outline: none;
-} */
+}
