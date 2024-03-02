@@ -1,9 +1,3 @@
-/* .buttons {
-    display: flex;
-    flex-direction: row;
-    gap: 12px;
-  } */
-
   .optionsList{
     display: flex;
     gap: 10px;
